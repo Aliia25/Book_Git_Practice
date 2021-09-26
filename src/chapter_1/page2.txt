@@ -3,3 +3,7 @@ this is page 2 of chapter 1
 this is our second file
 
 now we have git enable
+
+had a good idea
+
+this id new text for this page
